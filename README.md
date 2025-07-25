@@ -22,4 +22,12 @@ The model's performance is evaluated using training plots, a confusion matrix, a
 
 #### Stack
 
-Python, PyTorch, Scikit-learn, Matplotlib, Seaborn.
+Python, PyTorch, Scikit-learn, Matplotlib, Seaborn.       
+
+<br>
+<br>
+<br>
+
+`mnist_cnn_version.ipynb`
+
+GPU-accelerated version using CNN with data augmentation, learning rate scheduling, and comprehensive performance analysis.
