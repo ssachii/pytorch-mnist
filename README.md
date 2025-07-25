@@ -2,6 +2,7 @@
 Neural Network for Handwritten Digit Classification
 
 ### MNIST Digit Recognizer in PyTorch 🧠
+`handwritten_digit_recognition_io.ipynb`
 
 As part of the **PESU I/O Slot 16: Computer Vision and Intro to Neural Networks**
 The model's performance is evaluated using training plots, a confusion matrix, and custom handwritten images for testing.
